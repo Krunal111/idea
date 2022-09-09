@@ -1,0 +1,36 @@
+.dark__mode .header__main,
+.dark__mode .service__item {
+    background-color: #1f1f1f;
+}
+body.dark__mode,
+.dark__mode .what_we_do--block,
+.dark__mode .header__submenu {
+    background-color: #111111;
+}
+.dark__mode .header__logo img {
+    background-color: #ffffff;
+    padding: 2px;
+    border-radius: 8px;
+}
+.dark__mode h1,
+.dark__mode h2,
+.dark__mode h3,
+.dark__mode h4,
+.dark__mode h5,
+.dark__mode h6,
+.dark__mode a,
+.dark__mode p,
+.dark__mode li {
+    color: #ffffff !important;
+}
+.dark__mode .gray__bg p,
+.dark__mode .gray__bg .main__title,
+.dark__mode .gray__bg h4 {
+    color: #1f1f1f !important;
+}
+.dark__mode .dropdown-menu > li:hover a {
+    color: #000 !important;
+}
+.dark__mode .howreelgrad1 {
+    background-color: rgb(0 0 0);
+}
